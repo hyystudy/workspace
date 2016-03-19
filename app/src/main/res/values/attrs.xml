@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlyInMenu">
+        <attr name="animationDuration" format="integer" />
+        <attr name="menu_item" format="reference" />
+        <attr name="content" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="InsettableFrameLayout_Layout">
+        <attr name="layout_ignoreInsets" format="boolean" />
+    </declare-styleable>
+</resources>

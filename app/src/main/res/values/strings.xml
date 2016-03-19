@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="action_bar_search">action_search</string>
+    <string name="action_bar_add">action_add</string>
+    <string name="action_bar_edit">action_edit</string>
+    <string name="action_bar_share">action_share</string>
+    <string name="action_bar_sort">action_sort</string>
+    <string name="action_bar_sort_size">action_sort_size\'</string>
+    <string name="action_bar_sort_alpha">action_sort_alpha</string>
 </resources>
